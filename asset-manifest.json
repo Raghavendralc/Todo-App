@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Raghavendralc/Todo-App/static/css/main.8ce719a8.css",
+    "main.js": "/Raghavendralc/Todo-App/static/js/main.2a4c2394.js",
+    "static/js/453.37753ddd.chunk.js": "/Raghavendralc/Todo-App/static/js/453.37753ddd.chunk.js",
+    "index.html": "/Raghavendralc/Todo-App/index.html",
+    "main.8ce719a8.css.map": "/Raghavendralc/Todo-App/static/css/main.8ce719a8.css.map",
+    "main.2a4c2394.js.map": "/Raghavendralc/Todo-App/static/js/main.2a4c2394.js.map",
+    "453.37753ddd.chunk.js.map": "/Raghavendralc/Todo-App/static/js/453.37753ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ce719a8.css",
+    "static/js/main.2a4c2394.js"
+  ]
+}
